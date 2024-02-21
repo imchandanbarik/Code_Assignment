@@ -1,0 +1,7 @@
+app:
+  name: version-control-system
+  description: keep track of all version of file and handles ops like mergeConflicts etc.
+
+server:
+  port: 8060
+
